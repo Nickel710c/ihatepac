@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "https://github.com/Nickel710c/ihatepac/raw/refs/heads/main/goc_beret_sat_new.vtf"
+	$nocull 1
+}
